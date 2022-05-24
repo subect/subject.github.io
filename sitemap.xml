@@ -2,10 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://subject.github.io/categories/</loc>
+    <loc>http://subject.github.io/post/first/</loc>
+    <lastmod>2022-05-24T15:50:51+08:00</lastmod>
   </url><url>
     <loc>http://subject.github.io/</loc>
+    <lastmod>2022-05-24T15:50:51+08:00</lastmod>
+  </url><url>
+    <loc>http://subject.github.io/post/</loc>
+    <lastmod>2022-05-24T15:50:51+08:00</lastmod>
+  </url><url>
+    <loc>http://subject.github.io/about/</loc>
+    <lastmod>2022-05-24T15:49:49+08:00</lastmod>
+  </url><url>
+    <loc>http://subject.github.io/tags/blog/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://subject.github.io/post/test/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://subject.github.io/tags/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://subject.github.io/tags/test/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://subject.github.io/post/test/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://subject.github.io/categories/</loc>
   </url>
 </urlset>
